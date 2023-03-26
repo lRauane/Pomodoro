@@ -15,9 +15,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 25 minutos de concentração, seguidos de 5 minutos de descanso: essa é a base do método Pomodoro de estudo. O pomodoro foi criado para servir de grenciamento de tempo:
 A técnica consiste na utilização de um cronômetro para dividir o trabalho em períodos de 25 minutos, separados por breves intervalos.
 
-## 🎨 UI Design:
-Inspirações:<br>
-Lo-fi-sounds: [BiroBiroBiro](https://github.com/birobirobiro/lofi-sounds)
+## 🎨 Inspirações e Deploy:
+
+Lo-fi-sounds: [BiroBiroBiro](https://github.com/birobirobiro/lofi-sounds)<br>
+Deploy: [Vercel](https://pomodororl.vercel.app/)
 
 ---
 
