@@ -3,7 +3,7 @@ import { CircularProgressbar } from "react-circular-progressbar";
 import "react-circular-progressbar/dist/styles.css";
 import ButtonsPomodoro from "./ButtonsPomodoro";
 
-const Pomodoro = ({value}) => {
+const Pomodoro = () => {
   const [time, setTime] = useState(1500); // 25 minutos
   const [estaAtivo, setEstaativo] = useState(false);
 

@@ -19,17 +19,17 @@ const NavBar = () => {
 
         <ul className="flex gap-6">
           <li>
-            <a href="">
+            <a href="https://github.com/lRauane">
               <GithubLogo size={32} />
             </a>
           </li>
           <li>
-            <a href="">
+            <a href="https://linkedin.com/in/rauanee">
               <LinkedinLogo size={32} />
             </a>
           </li>
           <li>
-            <a href="">
+            <a href="https://www.instagram.com/rauanee._/">
               <InstagramLogo size={32} />
             </a>
           </li>
