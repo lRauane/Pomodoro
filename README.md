@@ -1,5 +1,5 @@
 <h1>Pomodoro</h1>
-  <h2>Tela de login</h2>
+  <h2>Tela inicial</h2>
   <img alt="" src="https://user-images.githubusercontent.com/102835801/227784525-2d5a6b3d-2214-4ac9-8c92-6f67b7204d46.jpg" width="100%"> 
  
 ## 🚀 Tecnologias
